@@ -1,0 +1,6 @@
+D:\git\optical-character-recognition\optical-character-recognition.Service\obj\Debug\net8.0\optical-character-recognition.Service.csproj.AssemblyReference.cache
+D:\git\optical-character-recognition\optical-character-recognition.Service\obj\Debug\net8.0\optical-character-recognition.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\optical-character-recognition\optical-character-recognition.Service\obj\Debug\net8.0\optical-character-recognition.Service.AssemblyInfoInputs.cache
+D:\git\optical-character-recognition\optical-character-recognition.Service\obj\Debug\net8.0\optical-character-recognition.Service.AssemblyInfo.cs
+D:\git\optical-character-recognition\optical-character-recognition.Service\obj\Debug\net8.0\optical-character-recognition.Service.csproj.CoreCompileInputs.cache
+D:\git\optical-character-recognition\optical-character-recognition.Service\obj\Debug\net8.0\optical-character-recognition.Service.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("optical-character-recognition.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c62ad865725e46c6de1286f2e4ea9eed5de5889b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fbcb940c402f79e2a32f119af0bae980e22712c")]
 [assembly: System.Reflection.AssemblyProductAttribute("optical-character-recognition.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("optical-character-recognition.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

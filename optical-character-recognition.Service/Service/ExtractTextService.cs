@@ -11,7 +11,7 @@ namespace optical_character_recognition.Service.Service
         {
             try
             {
-                string tessDataPath = @"./tessdata";
+                string tessDataPath = @"./tessdata"; 
                 using (var engine = new TesseractEngine(tessDataPath, "eng", EngineMode.Default))
                 using (var img = Pix.LoadFromMemory(imageBytes))
                 using (var page = engine.Process(img))
